@@ -1,0 +1,15 @@
+.home {
+    padding: 20px;
+  }
+  
+  .home p {
+    margin-bottom: 10px;
+  }
+  
+  .emojilogo {
+    width: 100%;
+    max-width: 400px; /* Adjust this value based on your design */
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 220px;
+  }
